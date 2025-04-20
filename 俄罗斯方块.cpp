@@ -1,3 +1,8 @@
+/*
+	补传半成品版本，相对应的部分位操作系统可以使用
+*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include <time.h>
